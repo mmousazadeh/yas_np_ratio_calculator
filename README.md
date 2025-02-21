@@ -1,6 +1,7 @@
 # N/P Ratio Calculator
 
-This Python script calculates the N/P ratio, peptide mass, and DNA mass based on user input.
+This Python script calculates the N/P ratio, peptide mass, and DNA mass based on user input. 
+This N/P ratio calculator is useful for **MPG-2H1 chimeric peptide**.
 
 ## Usage
 
