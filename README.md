@@ -30,7 +30,7 @@ This Python script calculates the N/P ratio, peptide mass, and DNA mass based on
    python np_calculator.py
    ```
 
-## Fast use
+## Fast Use
 - Open the following link in Google Colab and run the code:
 - https://colab.research.google.com/drive/1tdql3Tw0P9jwV1lM1r4zeDO_BYNzKC8H?usp=sharing
 
